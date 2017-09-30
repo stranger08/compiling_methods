@@ -1,4 +1,4 @@
-#!bin/sh
+#!/bin/sh
 
 # Scanner
 # the compiler pass that converts a string of chatacters into stream of words
