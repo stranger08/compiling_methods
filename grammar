@@ -1,0 +1,13 @@
+# here we will write all language grammar rules
+
+# Terminal symbol - constant value, such as keyword, identifier definition
+
+# Non-terminal symbol - can contain other (non)terminals inside its right value
+
+# root structure element 
+program := ???
+
+
+function
+statement
+control_statement
